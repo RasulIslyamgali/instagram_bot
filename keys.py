@@ -1,2 +1,2 @@
-my_login = '1mlnlittleactions'
-my_pass = 'Rebklimrod1928'
+my_login = ''
+my_pass = ''
